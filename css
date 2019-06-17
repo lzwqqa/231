@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS</title>
+    <style type="text/css">
+        h1{
+          text-align: center;
+          color: red;
+          font-family: 微软雅黑;
+        }
+      p{
+        text-align: center;
+        color: blue;
+        font-family: 微软雅黑;
+        font-size: 60px;
+      }
+    </style>
+</head>
+<body>
+<h1>成功法则</h1>
+<p>哈哈哈哈</p>
+<p>一一一一</p>
+</body>
+</html>
